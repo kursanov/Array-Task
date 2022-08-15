@@ -16,6 +16,6 @@ public class Main {
                 list2.add(j);
             }
         }
-        System.out.println("List 2" + list2);
+        System.out.println("List 2" + list2 );
     }
 }
